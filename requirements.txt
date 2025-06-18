@@ -1,5 +1,4 @@
 streamlit==1.45.1
-torch==2.2.2+cpu           # last CPU wheel built for Python 3.11 [1]
---extra-index-url https://download.pytorch.org/whl/cpu
-transformers==4.31.0
-youtube_transcript_api==0.6.2   # final version that keeps the old interface [3]
+transformers==4.36.2
+torch==2.7.1+cpu
+youtube-transcript-api==1.1.0
