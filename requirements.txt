@@ -1,7 +1,6 @@
-streamlit==1.35.0
+gradio==5.34.1
+streamlit==1.45.1
+torch==2.2.2+cu121
+torch==2.7.1+cu118
 transformers==4.31.0
-torch==2.2.2+cpu
-google-api-python-client==2.127.0
-pytube==15.0.0
-openai-whisper==20231105
-youtube_dl==2021.12.17          # ffmpeg helper for whisper
+youtube_transcript_api==1.1.0
