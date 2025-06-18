@@ -1,4 +1,4 @@
-streamlit
+streamlit==1.35.0
 transformers==4.31.0
-torch
-youtube-transcript-api
+torch==2.2.2+cpu
+youtube-transcript-api==0.4.6
