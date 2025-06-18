@@ -1,4 +1,4 @@
 streamlit
-pip install transformers==4.31.0
+transformers==4.31.0
 torch
 youtube-transcript-api
